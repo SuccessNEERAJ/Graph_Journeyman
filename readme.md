@@ -8,9 +8,6 @@ Graph Journey is an interactive and educational project designed to visually dem
 - [Features](#features)
 - [Algorithms Visualized](#algorithms-visualized)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
